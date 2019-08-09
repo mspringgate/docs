@@ -18,7 +18,7 @@ Email Validation is currently in beta. During beta, any participants with pro or
 
 </call-out>
 
-Email Address Validation provides you real-time detailed information on the validity of your users' email addresses, as well as allows you to integrate this validation process into your platform's signup form. You can customize the best use of email address validation for your use case. You can identify a validation threshold from which you feel comfortable sending a follow up email, display to your users that their email addresses are likely invalid within your form, and ultimately decide if you want to drop invalid email address from your database.
+Email Address Validation provides you real-time detailed information on the validity of your users' email addresses, as well as allows you to integrate this validation process into your platform's signup form. You can customize the best use of email address validation for your use case. You can identify a validation threshold from which you feel comfortable sending a follow up email, display to your users that their email addresses are likely invalid within your form, and ultimately decide if you want to drop invalid email addresses from your database.
 
 Validating your users' email addresses so that you are decreasing bounces and sending to more valid email addresses will allow you to maintain a cleaner subscriber list and improve your sender reputation.
 
